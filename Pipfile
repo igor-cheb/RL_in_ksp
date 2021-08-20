@@ -8,8 +8,8 @@ verify_ssl = true
 [packages]
 pandas = "*"
 gym = "*"
-box2d-py = "*"
 rocket-lander-gym = {editable = true,git = "https://github.com/sdsubhajitdas/Rocket_Lander_Gym.git"}
+box2d-py = "*"
 matplotlib = "*"
 seaborn = "*"
 xgboost = "*"
