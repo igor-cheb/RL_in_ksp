@@ -12,11 +12,12 @@ rocket-lander-gym = {editable = true,git = "https://github.com/sdsubhajitdas/Roc
 box2d-py = "*"
 matplotlib = "*"
 seaborn = "*"
-# xgboost = "*"
+xgboost = "*"
 # scikit-learn = "==0.22.2"
-scikit-learn = "==0.23.0"
+#scikit-learn = "==0.23.0"
+scikit-learn = "*"
 pyglet = "*"
 
 [requires]
 # python_version = "3.7"
-python_version = "3.8"
+python_version = "3.9.6"
