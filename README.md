@@ -4,6 +4,8 @@ This repo is in development. The following is planned:
 1) Solution using sb3.ppo (this has already been successfully attempted)
 2) Solution using only pytorch, no sb3 (this is in development)
 
+
+########################################################
 1) Install requirements:<br />
 `pipenv install`
 
